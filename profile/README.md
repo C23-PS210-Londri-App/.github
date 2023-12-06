@@ -1,11 +1,26 @@
-## LONDRI - Make Laundry Ez
-<!--
+<div align="center" id="top"> 
+  <img src="https://i.postimg.cc/FsrRV3Cj/fluent-emoji-high-contrast-motor-scooter.png" width="200" alt="Londri"/>
 
-**Here are some ideas to get you started:**
+  &#xa0;
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+<h1 align="center">Londri - Make Laundry Ez</h1>
+
+<br>
+
+## ✨ About ##
+
+This innovative laundry app is a practical solution to fulfill your laundry needs. With its location-based recommendation feature, you can easily find the best laundry services around you. The app offers a complete menu to book laundry services according to your needs, ranging from washing and ironing to expressly complete services. One of the main advantages of this app is the ability to track order status. With the tracking order status feature, you can monitor the process of washing your clothes from pick-up to drop-off. This provides transparency and trust to users, ensuring that they can always follow the progress of their orders with ease. With a user-friendly interface, the app makes the laundry experience more convenient and efficient. With a combination of recommendation features, a comprehensive order menu, and the ability to track order status, this laundry app provides a modern solution to fulfill your laundry needs easily and effortlessly.
+
+## 🚀 Our Team Members ##
+
+| ID | Name | Learning Path |
+|---------|---------|---------|
+| M008BSY1184  | Nur Aziz Tri Indrawan  | Machine Learning |
+| M008BSY0346  | Konang Tyagazain Nirangkara  | Machine Learning |
+| M179BSY1139  | Andri Pratama  | Machine Learning |
+| C008BSY3950  | Kenneth Christopher Prasetya  | Cloud Computing |
+| C179BSY3893  | Reza Muchamad Hafis  | Cloud Computing |
+| A182BSX2020  | Fitroh Izatul Malkiyah  | Mobile Development |
+| A015BSY2793  | Muhammad Raihan Ardinegoro  | Mobile Development |
