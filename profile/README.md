@@ -24,3 +24,13 @@ This innovative laundry app is a practical solution to fulfill your laundry need
 | C179BSY3893  | Reza Muchamad Hafis  | Cloud Computing |
 | A182BSX2020  | Fitroh Izatul Malkiyah  | Mobile Development |
 | A015BSY2793  | Muhammad Raihan Ardinegoro  | Mobile Development |
+
+## 💻 Repository ##
+| Name | Repository |
+|---------|---------|
+Machine Learning | <href a="https://github.com/C23-PS210-Londri-App/ML-Repository">ML Repository</href>
+ML API | <href a="https://github.com/C23-PS210-Londri-App/ML-API">ML API</>
+Cloud Computing | <href a="https://github.com/C23-PS210-Londri-App/CC-repository">CC Repository</href>
+Londri for User | <href a="https://github.com/C23-PS210-Londri-App/Londri_ForUser">Londri for Owner</href>
+Londri for Owner | <href a="https://github.com/C23-PS210-Londri-App/Londri_ForOwner">Londri for User</href>
+
