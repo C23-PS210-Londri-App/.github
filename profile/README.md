@@ -28,10 +28,10 @@ This innovative laundry app is a practical solution to fulfill your laundry need
 ## 💻 Repository ##
 | Name               | Repository                                              |
 | ------------------ | ------------------------------------------------------- |
-| Machine Learning   | [ML Repository](https://github.com/C23-PS210-Londri-App/ML-Repository)   |
+| Machine Learning   | [ML Repository](https://github.com/C23-PS210-Londri-App/ML-Repository)     |
 | ML API             | [ML API](https://github.com/C23-PS210-Londri-App/ML-API)                   |
-| Cloud Computing    | [CC Repository](https://github.com/C23-PS210-Londri-App/CC-repository)    |
-| Londri for User    | [Londri for Owner](https://github.com/C23-PS210-Londri-App/Londri_ForUser) |
-| Londri for Owner   | [Londri for User](https://github.com/C23-PS210-Londri-App/Londri_ForOwner) |
+| Cloud Computing    | [CC Repository](https://github.com/C23-PS210-Londri-App/CC-repository)     |
+| Londri for User    | [Londri for User](https://github.com/C23-PS210-Londri-App/Londri_ForOwner) |
+| Londri for Owner   | [Londri for Owner](https://github.com/C23-PS210-Londri-App/Londri_ForUser) |
 
 
